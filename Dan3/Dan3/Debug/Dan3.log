@@ -1,0 +1,4 @@
+﻿  main2.cpp
+c:\users\hp\desktop\rt-rk\dan3\dan3\bigdata.h(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\desktop\rt-rk\dan3\dan3\bigdata.h(134): warning C4018: '<': signed/unsigned mismatch
+  Dan3.vcxproj -> C:\Users\HP\Desktop\RT-RK\Dan3\Debug\Dan3.exe

@@ -1,0 +1,5 @@
+﻿  main2.cpp
+c:\users\hp\desktop\rt-rk\dan4\dan4\main2.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\desktop\rt-rk\dan4\dan4\main2.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\desktop\rt-rk\dan4\dan4\main2.cpp(47): warning C4018: '<': signed/unsigned mismatch
+  Dan4.vcxproj -> C:\Users\HP\Desktop\RT-RK\Dan4\Debug\Dan4.exe
